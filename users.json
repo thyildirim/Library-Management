@@ -1,0 +1,23 @@
+[
+    {
+        "id": 23,
+        "name": "taga",
+        "age": "32",
+        "job": "dsa",
+        "education": "das"
+    },
+    {
+        "id": 99,
+        "name": "cenk",
+        "age": "12",
+        "job": "teacher",
+        "education": "university"
+    },
+    {
+        "id": 133,
+        "name": "alp",
+        "age": "55",
+        "job": "dsdsa",
+        "education": "dsadsa"
+    }
+]
